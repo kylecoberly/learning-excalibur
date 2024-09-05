@@ -1,7 +1,7 @@
 {
-  "name": "template-ts-vite",
+  "name": "learning-excalibur",
   "version": "1.1.0",
-  "description": "Excalibur TypeScript template for Vite",
+  "description": "Learning Excalibur",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/excaliburjs/template-ts-vite.git"
+    "url": "git+https://github.com/kylecoberly/learning-excalibur"
   },
   "keywords": [
     "excalibur",
@@ -20,12 +20,12 @@
     "vite",
     "game-engine"
   ],
-  "author": "Erik Onarheim",
+  "author": "Kyle Coberly",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/excaliburjs/template-ts-vite/issues"
+    "url": "https://github.com/kylecoberly/learning-excalibur"
   },
-  "homepage": "https://github.com/excaliburjs/template-ts-vite#readme",
+  "homepage": "https://github.com/kylecoberly/learning-excalibur",
   "devDependencies": {
     "excalibur": "0.29.3",
     "typescript": "5.5.4",
